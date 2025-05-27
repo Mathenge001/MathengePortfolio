@@ -6,7 +6,7 @@ new Chart(codingCtx, {
     datasets: [{
       label: 'Proficiency (%)',
       data:[95, 90, 85, 75, 70, 80, 85],
-      backgroundColor:  ['#8e44ad', '#3498db', '#f39c12', '#2ecc71', '#e67e22']
+      backgroundColor:  ['#8e44ad', '#3498db', '#f39c12', '#2ecc71', '#e67e22', '#k87e21']
     }]
   },
   options: {
